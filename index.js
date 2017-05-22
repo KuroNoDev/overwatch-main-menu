@@ -92,7 +92,7 @@ var isChatActive = false;
 var chatInput = document.getElementById('text');
 var chatLog = document.getElementById('chat-log');
 
-document.body.onkeydown = function(e){
+document.body.onkeydown = function(event){
   if (event.keyCode === 13 && isChatActive === false) {
     isChatActive = true;
     document.getElementById('enter').style.display = 'none';
