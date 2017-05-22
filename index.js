@@ -4,7 +4,7 @@ var start = new Date().getTime() - 5000;
 var gradients = [-1];
 var offsetTop = -100;
 var isHighlightActive = false;
-var theme = new Audio('https://cdn.discordapp.com/attachments/303406782104207362/315769344972029952/main.ogg');
+var theme = new Audio('assets/main.ogg');
 theme.volume = 0.1;
 
 theme.play();

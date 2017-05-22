@@ -1,15 +1,15 @@
 @font-face {
   font-family: overwatch;
-  src: url("/assets/overwatch.woff");
+  src: url("assets/overwatch.woff");
 }
 
 @font-face {
   font-family: overwatch-italic;
-  src: url("/assets/bignoodletoo.woff");
+  src: url("assets/bignoodletoo.woff");
 }
 
 * {
-  cursor: url("/assets/Overwatch.cur"), auto;
+  cursor: url("assets/Overwatch.cur"), auto;
   -moz-user-select: -moz-none;
   -ms-user-select: none;
   -webkit-user-select: none;
