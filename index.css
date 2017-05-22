@@ -107,7 +107,7 @@ html, body, #main {
   display: flex;
   flex-direction: column-reverse;
   background: transparent;
-  height: 60px;
+  height: 55px;
   margin-bottom: 48px;
   position: absolute;
   left: 35px;
