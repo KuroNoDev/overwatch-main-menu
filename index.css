@@ -55,7 +55,7 @@ html, body, #main {
 #menus {
   position: relative;
   height: 500px;
-  margin-top: 50px;
+  margin-top: 60px;
   padding-left: 35px;
 }
 #menus .italic {
@@ -107,7 +107,7 @@ html, body, #main {
   display: flex;
   flex-direction: column-reverse;
   background: transparent;
-  height: 54px;
+  height: 60px;
   margin-bottom: 48px;
   position: absolute;
   left: 35px;
